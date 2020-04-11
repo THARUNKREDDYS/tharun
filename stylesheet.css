@@ -1,0 +1,18 @@
+table, th, td #01{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+img {
+  border-radius: 50%;
+}
+body{
+	background-color:lightgray;
+	background-image: url('10943.jpg');
+}
+hr{
+	height:0px;
+	border-style:dotted none none;
+	border-width:3px;
+	border-color:gray;
+	width:10%;
+}
